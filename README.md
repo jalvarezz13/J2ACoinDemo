@@ -1,21 +1,14 @@
 <img src="https://github.com/jalvarezz13/isi-J2ACoin/blob/master/Frontend/src/assets/logo.png" width="" height="90" align = "left">
 
-# J2ACoin
-## ¿Qué es J2ACoin?
+# J2ACoinDemo
+## ¿Qué es (J2ACoin)[https://github.com/jalvarezz13/isi-J2ACoin]?
 J2ACoin es una iniciativa que surge en la asignatura de Integración de Sistemas Informáticos donde se pretende recoger, modificar y transformar datos obtenidos a partir de diferentes APIs y mostrar al usuario información sobre las diferentes criptomonedas, su evolución e información de compra. Las APIs utilizadas son ofrecidas por grandes empresas del mundo de las criptomonedas como [_CoinmarketCap_](https://coinmarketcap.com/api/) o [_Messari_](https://messari.io/api/docs). Por otro lado usaremos [_UrlScan.io_](https://urlscan.io/) para verificar la seguridad de los enlaces de nuestra página. 
 
-<div align="center">
-  <h4>Consulta los últimos avances del proyecto <a href="https://github.com/jalvarezz13/isi-J2ACoin/projects/2" target="_blank">aquí</a></h4>
-</div>
+## ¿Qué es J2ACoinDemo?
+J2ACoinDemo es la demostración fácilmente desplegable de J2ACoin utilizando datos estáticos recogidos de las APIs en local.
 
-## ¿Cómo puedo usar GamesJ3S?
-
-  1. Clona el repositorio con 
-```
-git clone https://github.com/jalvarezz13/isi-J2ACoin
-```
-  2. Ejecuta ```docker-compose up -d``` en el directorio _raíz_ para iniciar tanto el contenedor del Gateway y del Frontend.
-  3. Abre en tu navegador: http://localhost:3000/
+## ¿Cómo puedo ver GamesJ3S?
+  1. Visita https://j2acoin.vercel.app/
 
 ## Capturas
 <div align="center">
