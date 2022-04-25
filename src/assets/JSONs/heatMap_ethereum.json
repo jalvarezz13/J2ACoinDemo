@@ -1,0 +1,4 @@
+{
+  "status": { "elapsed": 6, "timestamp": "2022-04-25T18:08:58.321982668Z" },
+  "data": { "name": "Ethereum", "symbol": "ETH", "market_data": { "percent_change_usd_last_24_hours": -0.43971829071827023, "price_usd": 2930.722496490779 } }
+}

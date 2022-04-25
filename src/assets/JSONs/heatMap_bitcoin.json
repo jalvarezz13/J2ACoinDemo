@@ -1,0 +1,4 @@
+{
+  "status": { "elapsed": 3, "timestamp": "2022-04-25T18:08:58.036473888Z" },
+  "data": { "name": "Bitcoin", "symbol": "BTC", "market_data": { "percent_change_usd_last_24_hours": 6.5516438700537185, "price_usd": 39408.28989282101 } }
+}

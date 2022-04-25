@@ -1,0 +1,4 @@
+{
+  "status": { "elapsed": 2, "timestamp": "2022-04-25T18:08:58.897223121Z" },
+  "data": { "name": "Terra", "symbol": "LUNA", "market_data": { "percent_change_usd_last_24_hours": 3.077790451170217, "price_usd": 93.4681304023187 } }
+}
